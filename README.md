@@ -12,7 +12,7 @@ ____
 ____
 
 - **Before worked on** auto dealership website (1yr) and online language learning platform (6yr)
-- **Past Stacks\Keywords** PHP, Ruby On Rails, MySQL, PostgreSQL, Redis, JQuery, C#, Qt C++, Memcache, Laravel, Wordpress, Chrome Extensions, Jenkins, Travis, Redux, Shopify  
+- **Past Stacks\Keywords** PHP, Ruby On Rails, MySQL, PostgreSQL, Redis, JQuery, ElectronJS, C#, Qt C++, Memcache, Laravel, Wordpress, Chrome Extensions, Jenkins, Travis, Redux, Shopify  
   note: _I haven't touched some of those for more than 5 years!_
 
 ____
