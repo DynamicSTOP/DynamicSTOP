@@ -1,16 +1,22 @@
-## Hi there 👋
+## Leonid Babikov 
+### AWS | NodeJS | Typescript | ReactJS Developer 
+#### Working 14+ years as a Web Dev. Open to work. Remote\Onsite\Contract. You can contact me through [LinkedIn](https://www.linkedin.com/in/leonid-babikov/) 💬📫
+#### Past client reviews & short term contracts via [Upwork](https://www.upwork.com/freelancers/~0187760ab8fda9b142)
 
-<!--
-**DynamicSTOP/DynamicSTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+____
 
-Here are some ideas to get you started:
+- **Currently working on** serverless solutions that are utilising AWS infrastructure for online events with 2-5k simultaneous audience (webcasts\chats\votes\etc)
+- **Current Stack\Keywords**  GitHub Actions, NodeJS, Typescript, Docker, ReactJS, VideoSDK, GraphQL  
+  AWS Lambda, DynamoDB, S3, API Gateway, CloudFormation, CloudFront, IVS, MediaConvert, AppSync
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+____
+
+- **Before worked on** auto dealership website (1yr) and online language learning platform (6yr)
+- **Past Stacks\Keywords** PHP, Ruby On Rails, MySQL, PostgreSQL, Redis, JQuery, C#, Qt C++, Memcache, Laravel, Wordpress, Chrome Extensions, Jenkins, Travis, Redux, Shopify  
+  note: _I haven't touched some of those for more than 5 years!_
+
+____
+
+![DynamicSTOP's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicSTOP&theme=github_dark&layout=compact)
+
+<!-- Hobby: digital art 🎨🖌️ -->
