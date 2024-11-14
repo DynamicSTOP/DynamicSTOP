@@ -1,6 +1,6 @@
-## Leonid Babikov 
+## Leonid Babikov | [Open to work](https://www.linkedin.com/in/leonid-babikov/)
 ### AWS | NodeJS | Typescript | ReactJS Developer 
-#### Working 14+ years as a Web Dev. Open to work. Remote\Onsite\Contract. You can contact me through [LinkedIn](https://www.linkedin.com/in/leonid-babikov/) 💬📫
+#### Working 14+ years as a Web Dev. Remote\Onsite\Contract. You can contact me through [LinkedIn](https://www.linkedin.com/in/leonid-babikov/) 💬📫
 #### Past client reviews & short term contracts via [Upwork](https://www.upwork.com/freelancers/~0187760ab8fda9b142)
 
 ____
