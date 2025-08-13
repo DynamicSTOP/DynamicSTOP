@@ -1,4 +1,4 @@
-## Leonid Babikov | [Open to work](https://www.linkedin.com/in/leonid-babikov/)
+## Leonid Babikov | [Fugo.ai](https://fugo.ai)
 ### AWS | NodeJS | Typescript | ReactJS Developer 
 #### Working 14+ years as a Web Dev. Remote\Onsite\Contract. You can contact me through [LinkedIn](https://www.linkedin.com/in/leonid-babikov/) 💬📫
 #### Past client reviews & short term contracts via [Upwork](https://www.upwork.com/freelancers/~0187760ab8fda9b142)
