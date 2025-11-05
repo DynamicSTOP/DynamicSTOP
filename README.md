@@ -5,18 +5,21 @@
 
 ____
 
-- **Currently working on** serverless solutions that are utilising AWS infrastructure for online events with 2-5k simultaneous audience (webcasts\chats\votes\etc)
-- **Current Stack\Keywords**  GitHub Actions, NodeJS, Typescript, Docker, ReactJS, VideoSDK, GraphQL  
-  AWS Lambda, DynamoDB, S3, API Gateway, CloudFormation, CloudFront, IVS, MediaConvert, AppSync
-
+- **Current workplace** contributing to digital signage platform that allows customers to control media content over hundreds of screens all over the world.
+- **Current Stack\Keywords**  GitHub Actions, NodeJS, Typescript, GraphQL, AWS S3, ReactJS, Webpack, Playwright, adb, Tizen, BrighSign
+  
 ____
 
-- **Before worked on** auto dealership website (1yr) and online language learning platform (6yr)
-- **Past Stacks\Keywords** PHP, Ruby On Rails, MySQL, PostgreSQL, Redis, JQuery, ElectronJS, C#, Qt C++, Memcache, Laravel, Wordpress, Chrome Extensions, Jenkins, Travis, Redux, Shopify  
+- **Before worked on**
+  - serverless solutions that were utilising AWS infrastructure for online events with 2-5k simultaneous audience (webcasts\chats\votes\etc) (5yr+)
+  - auto dealership website (1yr)
+  - online language learning platform (6yr)
+- **Past Stacks\Keywords** PHP, Ruby On Rails, MySQL, PostgreSQL, Redis, Docker, VideoSDK, JQuery, ElectronJS, C#, Qt C++, Memcache, Laravel, Wordpress, Chrome Extensions, Jenkins, Travis, Redux, Shopify
+- **AWS** Lambda, DynamoDB, S3, API Gateway, CloudFormation, CloudFront, IVS, MediaConvert, AppSync  
   note: _I haven't touched some of those for more than 5 years!_
 
 ____
 
 ![DynamicSTOP's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicSTOP&theme=github_dark&layout=compact)
 
-<!-- Hobby: digital art 🎨🖌️ -->
+<!-- Nice one! You found this secret line! My Hobby is digital art 🎨🖌️ -->
